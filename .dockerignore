@@ -1,0 +1,18 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment directories
+venv/
+.venv/
+
+# Ignore other unnecessary files
+.git/
+.gitignore
+.DS_Store
+.vscode/
+.idea/
+
+# Ignore Streamlit secrets file
+.streamlit/secrets.toml
